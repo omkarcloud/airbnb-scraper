@@ -2,7 +2,7 @@
 
 # Airbnb Scraper API
 
-Scrape Airbnb listings, prices, host profiles, and ratings for any destination worldwide via a simple REST API. 5,000 free requests/month.
+Scrape Airbnb listings, prices, host profiles, and ratings for any destination worldwide via a simple REST API. 100 free requests/month.
 
 ## Key Features
 
@@ -11,7 +11,7 @@ Scrape Airbnb listings, prices, host profiles, and ratings for any destination w
 - Full property details with rating breakdown by category
 - Host profiles with verification status, ratings, and years hosting
 - Date-aware pricing with itemized cost breakdowns
-- **5,000 requests/month on free tier**
+- **100 requests/month on free tier**
 - Example Response:
 ```json
 {
@@ -46,7 +46,7 @@ Scrape Airbnb listings, prices, host profiles, and ratings for any destination w
 
 Create an account at [omkar.cloud](https://www.omkar.cloud/auth/sign-up?redirect=/api-key) to get your API key.
 
-It takes just 2 minutes to sign up. You get 5,000 free requests every month for detailed Airbnb data — more than enough for most users to get their job done without paying a dime.
+It takes just 2 minutes to sign up. You get 100 free requests every month for detailed Airbnb data.
 
 This is a well built product, and your search for the best Airbnb Scraper API ends right here.
 
@@ -348,10 +348,10 @@ Use Search to discover listings. Use Details to get the full picture on one.
 
 | Plan | Price | Requests/Month |
 |------|-------|----------------|
-| Free | $0 | 5,000 |
-| Starter | $25 | 100,000 |
-| Grow | $75 | 1,000,000 |
-| Scale | $150 | 10,000,000 |
+| Free | $0 | 100 |
+| Starter | $16 | 3,000 |
+| Grow | $48 | 15,000 |
+| Scale | $148 | 75,000 |
 
 ## Questions? We have answers.
 
