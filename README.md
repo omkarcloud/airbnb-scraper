@@ -34,7 +34,7 @@ It works across **67 Airbnb country domains** — `airbnb.com`, `airbnb.co.uk`, 
 
 The same scraper is also available on **Apify** and **RapidAPI**:
 
-[![Run on Apify](https://img.shields.io/badge/Run%20on-Apify-blue)](https://apify.com/omkar-cloud/airbnb-scraper) [![Run on RapidAPI](https://img.shields.io/badge/Run%20on-RapidAPI-blue?logo=rapidapi)](https://rapidapi.com/Chetan11dev/api/airbnb-scraper)
+[![Run on Apify](https://img.shields.io/badge/Run%20on-Apify-blue)](https://apify.com/omkar-cloud/airbnb-scraper) [![Run on RapidAPI](https://img.shields.io/badge/Run%20on-RapidAPI-blue?logo=rapidapi)](https://rapidapi.com/OmkarCloud/api/airbnb-scraper5)
 
 ## Example: Airbnb Room Data in One Request
 
